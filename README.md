@@ -8,6 +8,6 @@ The biggest challenge that I had here was to create the variable with the total 
 
 Now I present here two possible solutions to mitigate this time of execution using more appropriate functions in Python ([Access code in Python here!](https://github.com/mfigueiro/Credit-Card-Data/blob/master/TemplatePython.ipynb)) and in R ([Access code in R here!](https://github.com/mfigueiro/Credit-Card-Data/blob/master/Rtemplate.R)).
 
-I really would like to thank the data scientist Teo Calvo for the code template in Python and the statistician Ianní Muliterno for the suggestion of the some R functions. 
+I really would like to thank the data scientist Teo Calvo for the code template in Python and the statistician Ianní Muliterno for the suggestion of some R functions. 
 
 Any additional sugestion, please, let me know!!!
